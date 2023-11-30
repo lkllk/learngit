@@ -1,0 +1,2 @@
+git config --global user.email 512827425@qq.com
+git push -u origin main
